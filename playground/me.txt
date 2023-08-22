@@ -1,3 +1,0 @@
-Name: Havila
-Skills: HTML, CSS, JS, Bootstrap
-Email: havilalingamgunta@gmail.com
